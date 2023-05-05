@@ -1,5 +1,6 @@
 {
     "name": "entahlah/testlabphp",
+	"license": "MIT",
     "autoload": {
         "psr-4": {
             "Entahlah\\Testlabphp\\": "src/"
