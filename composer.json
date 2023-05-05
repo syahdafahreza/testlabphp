@@ -1,0 +1,15 @@
+{
+    "name": "entahlah/testlabphp",
+    "autoload": {
+        "psr-4": {
+            "Entahlah\\Testlabphp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Syahda Fahreza",
+            "email": "syahdafahreza@gmail.com"
+        }
+    ],
+    "require": {}
+}
