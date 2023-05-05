@@ -1,5 +1,6 @@
 {
     "name": "entahlah/testlabphp",
+	"description": "Lorem ipsum dolor sit amet.",
 	"license": "MIT",
     "autoload": {
         "psr-4": {
